@@ -2,7 +2,7 @@ let online = true;
 
 // define sample files
 const files = [
-  "pack-1/c.mp3", "pack-1/d.mp3", "pack-1/e.mp3", "pack-1/f.mp3", "pack-1/gsharp.mp3"
+  "pack-1/0 - A.wav", "pack-1/1 - D.wav", "pack-1/2 - E.wav", "pack-1/3 - F Sharp.wav", "pack-1/4 - G.wav", "pack-1/5 - A.wav", "pack-1/6 - B.wav"
 ];
 let sounds = Array(files.length);
 
@@ -35,6 +35,12 @@ document.addEventListener('keydown', (event) => {
       case 'g':
         socket.emit("send-data", {"sample": 4} );
         break;
+      case 'H':
+        socket.emit("send-data", {"sample": 5} );
+        break;
+      case 'J':
+        socket.emit("send-data", {"sample": 6} );
+        break;
     }
   } else { 
     // if connection to server is not established, we just play sounds locally
@@ -54,6 +60,12 @@ document.addEventListener('keydown', (event) => {
       case 'g':
           playSample(4);
           break;
+      case 'h':
+        playSample(5);
+        break;
+      case 'j':
+        playSample(6);
+        break;
     }
   }
 });

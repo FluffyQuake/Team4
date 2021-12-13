@@ -8,7 +8,7 @@ body{
 }
 
 .base{
-    width: 1000px;
+    width: fit-content;
     height: 600px;
     background-color: rgb(44, 44, 44);
     position: absolute;
