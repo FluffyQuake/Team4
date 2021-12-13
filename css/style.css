@@ -1,0 +1,37 @@
+html {
+    box-sizing: border-box;
+}
+*, *::after, *::before {
+    box-sizing: inherit;
+}
+
+html, body {
+    margin:0; padding:0;
+}
+body {
+    position: relative;
+    background-color: black;
+    height: 100vh;
+}
+.keys{
+    position: absolute;
+    bottom:5vh;
+    left:0;
+    width: 100%;
+    display: flex;
+    gap: 2vw;
+    padding: 2vw;
+}
+
+.key{
+    flex-grow: 1;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 8vw;
+    border: 1px solid white;
+    border-radius: 0.25ch;
+    cursor: pointer;
+    user-select: none;
+}
