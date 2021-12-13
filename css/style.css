@@ -38,5 +38,10 @@ body{
     color: white;
     font-size: 30px;
     text-decoration: none;
+    transition: 0.2s;
+}
+
+.key:hover{
+    background-color: rgb(64, 64, 64);
 }
 
