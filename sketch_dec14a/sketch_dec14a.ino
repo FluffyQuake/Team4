@@ -2,8 +2,10 @@
 const int buttonPin = 2;
 // Potentiometer is connected to the analog pin A0
 const int potPin = A0;
+int shockSensorPin = 12;
 
 int buttonState, potVal;
+bool shockSensorSate = 0;
 
 // Setup runs once after arduino boots up
 void setup() {
@@ -18,6 +20,7 @@ void setup() {
   pinMode(6, INPUT);
   pinMode(7, INPUT);
   pinMode(8, INPUT);
+  pinMode(shockSensorPin, INPUT);
 }
 
 // Infinite loop for event listening
@@ -35,25 +38,30 @@ void loop() {
   
 
   if (buttonState2 == HIGH) {
-    Serial.println("1");
+    Serial.println("0");
   }
   if (buttonState3 == HIGH) {
-    Serial.println("2");
+    Serial.println("1");
   }
   if (buttonState4 == HIGH) {
-    Serial.println("3");
+    Serial.println("2");
   }
   if (buttonState5 == HIGH) {
-    Serial.println("4");
+    Serial.println("3");
   }
   if (buttonState6 == HIGH) {
-    Serial.println("5");
+    Serial.println("4");
   }
   if (buttonState7 == HIGH) {
-    Serial.println("6");
+    Serial.println("5");
   }
   if (buttonState8 == HIGH) {
-    Serial.println("7");
+    Serial.println("6");
+  }
+
+  shockSensorSate = digitalRead(shockSensorPin);
+  if ( shockSensorSate == 0 ) {
+    Serial.println("8");
   }
   
   delay(200);
