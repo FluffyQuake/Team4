@@ -28,7 +28,7 @@ Suhtluskanalid:
 - Lähteülesande selgitamine
 - Omavahel ülesannete jagamine
 - Koodi kirjutamine
-- Serveri loomine
+- Serveri loomine ja tööle saamine.
 
 **2.päev**
 - Koodi kirjutamine 
