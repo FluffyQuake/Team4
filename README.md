@@ -54,7 +54,7 @@ Suhtluskanalid:
    * Karl Andreas Mätlik -
    * Erik Leemet - Oleks tahtnud tegeleda rohkem serveriga ja aru saada kuidas see töötab.
    * Kätlin Maidle - Kuna esimene päev jäi põhimõtteliselt minul vahele, siis püüdisn teisel päeval teha seda, mida oli veel võimalik ja püüda projektist aru saada.
-   * Anni Aavik -
+   * Anni Aavik - Ma ei ütleks nii, jäin rahule Arduino õppimisega ja muude uute asjadega tutvumisega.
    * Kaspar Tiirik - 
    * Kaspar Vakkum -
    * Timo Takkis -
@@ -67,7 +67,7 @@ Suhtluskanalid:
    * Karl Andreas Mätlik -
    * Erik Leemet - Pole midagi väga õppinud ega arendand.
    * Kätlin Maidle - Tutvumine uue asjaga - Arduinoga.
-   * Anni Aavik -
+   * Anni Aavik - Natukene suhtlemist :).
    * Kaspar Tiirik -
    * Kaspar Vakkum -
    * Timo Takkis -
@@ -80,7 +80,7 @@ Suhtluskanalid:
    * Karl Andreas Mätlik -
    * Erik Leemet - Kahjuks see kord ma ei saanud endal otseselt midagi arendada.
    * Kätlin Maidle - Sellel korral tehnilist oskust ei saanud, aga koodis sain mõnda asja proovida ja katsetada tatgemate ja tublimate abiga. :)
-   * Anni Aavik -
+   * Anni Aavik - Elektoonika komponentidega millegi huvitava kokku panemine, sain ka läbi jälgimse natukene targemaks html'i ja css'i osas.
    * Kaspar Tiirik -
    * Kaspar Vakkum -
    * Timo Takkis -
