@@ -3,7 +3,7 @@ let online = true;
 // define sample files
 const files = [
   "pack-1/0 - A.wav", "pack-1/1 - D.wav", "pack-1/2 - E.wav", "pack-1/3 - F Sharp.wav", "pack-1/4 - G.wav", "pack-1/5 - A.wav", "pack-1/6 - B.wav",
-  "pack-1/drum.wav", "pack-1/bell.wav", "pack-1/E_Minor.wav", "pack-1/G.wav", "pack-1/d.wav", "pack-1/A7.wav"
+  "pack-1/drum.wav", "pack-1/bell.wav", "pack-1/E_Minor.wav", "pack-1/G.wav", "pack-1/d.wav", "pack-1/A7.wav", "pack-1/song.wav"
 ];
 let sounds = Array(files.length);
 
@@ -61,6 +61,9 @@ document.addEventListener('keydown', (event) => {
       case 'p':
         socket.emit("send-data", {"sample": 12})
         break;
+      case 'z':
+        socket.emit("send-data", {"sample": 13})
+        break;
     }
     
   } else {
@@ -107,6 +110,10 @@ document.addEventListener('keydown', (event) => {
         break;
         case 'p':
           playSample(12);
+        break;
+
+        case 'z':
+          playSample(13);
         break;
     }
   }
