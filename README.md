@@ -53,7 +53,7 @@ Suhtluskanalid:
    * Rainis-Ross Tiiri - 
    * Karl Andreas Mätlik -
    * Erik Leemet -
-   * Kätlin Maidle -
+   * Kätlin Maidle - Kuna esimene päev jäi põhimõtteliselt minul vahele, siis püüdisn teisel päeval teha seda, mida oli veel võimalik ja püüda projektist aru saada.
    * Anni Aavik -
    * Kaspar Tiirik - 
    * Kaspar Vakkum -
@@ -66,7 +66,7 @@ Suhtluskanalid:
    * Rainis-Ross Tiiri -
    * Karl Andreas Mätlik -
    * Erik Leemet -
-   * Kätlin Maidle -
+   * Kätlin Maidle - Tutvumine uue asjaga - Arduinoga.
    * Anni Aavik -
    * Kaspar Tiirik -
    * Kaspar Vakkum -
@@ -79,7 +79,7 @@ Suhtluskanalid:
    * Rainis-Ross Tiiri - 
    * Karl Andreas Mätlik -
    * Erik Leemet - 
-   * Kätlin Maidle -
+   * Kätlin Maidle - Sellel korral tehnilist oskust ei saanud, aga koodis sain mõnda asja proovida ja katsetada tatgemate ja tublimate abiga. :)
    * Anni Aavik -
    * Kaspar Tiirik -
    * Kaspar Vakkum -
