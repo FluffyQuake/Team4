@@ -50,7 +50,7 @@ Suhtluskanalid:
 ## Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
    * Karl Erik Kaselaan - Jäin ülesannete jaotusega rahule. Palju oli minu jaoks tundmatut ja suure osa ajast veetsin vaatleja rollis. 
-   * Rainis-Ross Tiiri - 
+   * Rainis-Ross Tiiri - Ma olin oma ülesandega rahul.
    * Karl Andreas Mätlik -
    * Erik Leemet - Oleks tahtnud tegeleda rohkem serveriga ja aru saada kuidas see töötab.
    * Kätlin Maidle - Kuna esimene päev jäi põhimõtteliselt minul vahele, siis püüdisn teisel päeval teha seda, mida oli veel võimalik ja püüda projektist aru saada.
@@ -63,7 +63,7 @@ Suhtluskanalid:
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
    * Karl Erik - Meeskonnatöö, suhtlemine, tutvusin arduinoga, palju läks aega koodiga tutvumisega ja endale selgeks tegemisega. Lokaalse serveri ülesspanemine ja sellega ühendumine. Arduinoga ja sellega seonduva tarkvaraga tutvumine.
-   * Rainis-Ross Tiiri -
+   * Rainis-Ross Tiiri - Meeskonnatööd ja vähesel määral meeskonna juhtimist
    * Karl Andreas Mätlik -
    * Erik Leemet - Pole midagi väga õppinud ega arendand.
    * Kätlin Maidle - Tutvumine uue asjaga - Arduinoga.
@@ -76,7 +76,7 @@ Suhtluskanalid:
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    * Karl Erik - Kuna sellel korral oli palju uut, siis pean tunnistama, et otseselt ühtegi tehnilist oskust täielikult selgeks ei saanud. Kindlasti sai algust tehtud paljuga, mis nõuab põhjalikumat süvenemist.
-   * Rainis-Ross Tiiri - 
+   * Rainis-Ross Tiiri - Tutvusin Node.js ja arduinoga.
    * Karl Andreas Mätlik -
    * Erik Leemet - Kahjuks see kord ma ei saanud endal otseselt midagi arendada.
    * Kätlin Maidle - Sellel korral tehnilist oskust ei saanud, aga koodis sain mõnda asja proovida ja katsetada tatgemate ja tublimate abiga. :)
