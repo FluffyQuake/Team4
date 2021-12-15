@@ -75,7 +75,7 @@ Suhtluskanalid:
    
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-   * Karl Erik - Kuna sellel korral oli palju uut, siis pean tunnistama, et otseselt ühtegi tehnilist oskust täielikult selgeks ei saanud. Kindlasti sai algust tehtud paljuga sellel korral, mis nõuab põhjalikumat süvenemist.
+   * Karl Erik - Kuna sellel korral oli palju uut, siis pean tunnistama, et otseselt ühtegi tehnilist oskust täielikult selgeks ei saanud. Kindlasti sai algust tehtud paljuga, mis nõuab põhjalikumat süvenemist.
    * Rainis-Ross Tiiri - 
    * Karl Andreas Mätlik -
    * Erik Leemet - 
